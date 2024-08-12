@@ -1,0 +1,55 @@
+/* Hero.css */
+.hero {
+  background-color: #229ab9;
+  padding: 100px 0;
+}
+
+.hero-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.text-container {
+  color: white;
+  max-width: 400px;
+}
+
+.text-container h1 {
+  font-size: 48px;
+  line-height: 1.2;
+}
+
+.text-container .highlight {
+  color: #ffcc00; /* Match the highlight color from the Figma link */
+}
+
+.text-container p {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.text-container button {
+  padding: 15px 40px;
+  font-size: 20px;
+  background-color: white;
+  color: #229ab9;
+  border: none;
+  cursor: pointer;
+}
+
+.text-container button:hover {
+  background-color: #f0f0f0;
+}
+
+.image-container {
+  flex-shrink: 0;
+  width: 50%;
+}
+
+.image-container img {
+  width: 100%;
+  height: auto;
+}

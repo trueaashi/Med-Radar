@@ -1,0 +1,99 @@
+/* Testimonials.css */
+.testimonials {
+  padding: 100px 0;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.description {
+  margin-bottom: 50px;
+}
+
+.description h2 {
+  font-size: 36px;
+  color: #0056b3;
+}
+
+.description p {
+  font-size: 18px;
+  color: #666;
+  margin-top: 10px;
+}
+
+.testimonials-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.testimonial {
+  max-width: 600px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+}
+
+.stars {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.stars svg {
+  color: #ffc107; /* Yellow color for stars */
+  margin: 0 2px;
+}
+
+.testimonial-content {
+  margin-top: 20px;
+}
+
+.testimonial p {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.testimonial p:last-child {
+  font-style: italic;
+  color: #666;
+}
+
+.controls {
+  display: flex;
+  justify-content: center; /* Center the buttons horizontally */
+  gap: 10px; /* Add some space between the buttons */
+  margin-top: 20px;
+}
+
+.controls button {
+  background-color: #007BFF; /* Primary color */
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.controls button:hover {
+  background-color: #0056b3; /* Darker shade of primary color */
+  transform: scale(1.05);
+}
+
+.controls button:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.5); /* Highlight on focus */
+}
+
+.controls button:active {
+  background-color: #004080; /* Even darker shade for active state */
+  transform: scale(0.95);
+}
+
+
