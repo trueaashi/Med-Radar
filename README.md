@@ -47,8 +47,10 @@ Check out the demo video of the MED-RADAR in action: [VIDEO LINK](https://drive.
    git clone https://github.com/trueaashi/Med-Radar
    
 2. Install dependencies
-cd med-radar
-npm install
+   ```bash
+   cd med-radar
+   npm install
 
-3. Run the application
-npm start
+4. Run the application
+   ```bash
+   npm start
