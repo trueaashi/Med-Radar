@@ -33,8 +33,8 @@ MED-RADAR is a real-time web application designed to enhance healthcare accessib
 - Conducted field research to ensure the features are user-friendly and meet the needs of the local population.
 
 ## Demo
-Check out the demo video of the MED-RADAR in action:
-https://drive.google.com/file/d/1-61XCPsXAolUdJIFn-DMZL4k-XrGIlPt/view?usp=sharing
+Check out the demo video of the MED-RADAR in action:[VIDEO LINK](https://drive.google.com/file/d/1-61XCPsXAolUdJIFn-DMZL4k-XrGIlPt/view?usp=sharing)
+
 
 ## Getting Started
 ### Prerequisites
