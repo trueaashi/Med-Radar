@@ -9,7 +9,7 @@ MED-RADAR is a real-time web application designed to enhance healthcare accessib
 **October 2023 - March 2024**
 
 ### Tech Stack
-- **Frontend**: HTML, CSS, React.js
+- **Frontend**: HTML, CSS, React.js, ChakraUI
 - **Backend**: Express.js, Node.js
 - **Database**: MongoDB
 
@@ -53,4 +53,4 @@ Check out the demo video of the MED-RADAR in action: [VIDEO LINK](https://drive.
 
 4. Run the application
    ```bash
-   npm start
+   npm run dev
