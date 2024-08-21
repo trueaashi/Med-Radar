@@ -13,7 +13,7 @@ MED-RADAR is a real-time web application designed to enhance healthcare accessib
 - **Backend**: Express.js, Node.js
 - **Database**: MongoDB
 
-## Features
+## THREE PANELS
 1. **ADMIN**: 
    - Authenticate hospitals by approving or disapproving their details.
    - Manage and monitor the list of hospitals displayed on the website.
