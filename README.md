@@ -1,7 +1,6 @@
 # MED-RADAR
 
 The site is **LIVE** here: https://medradarhp.netlify.app/
-**GitHub Link**: https://github.com/trueaashi/Med-Radar
 
 ## Overview
 MED-RADAR is a real-time web application designed to enhance healthcare accessibility in the Sehore district, MP. It allows users to find nearby hospitals based on various parameters, and it includes hospital authentication and management features for administrators. This project aims to streamline resource allocation and provide critical healthcare information at a glance.
