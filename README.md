@@ -1,5 +1,6 @@
 # MED-RADAR
 
+The site is **LIVE** here: https://medradarhp.netlify.app/
 **GitHub Link**: https://github.com/trueaashi/Med-Radar
 
 ## Overview
